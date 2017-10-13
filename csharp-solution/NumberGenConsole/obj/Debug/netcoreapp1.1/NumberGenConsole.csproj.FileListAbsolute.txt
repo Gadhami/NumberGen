@@ -1,0 +1,16 @@
+G:\_Repos\NumberGen\NumberGenConsole\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.deps.json
+G:\_Repos\NumberGen\NumberGenConsole\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.runtimeconfig.json
+G:\_Repos\NumberGen\NumberGenConsole\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.runtimeconfig.dev.json
+G:\_Repos\NumberGen\NumberGenConsole\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.dll
+G:\_Repos\NumberGen\NumberGenConsole\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.pdb
+G:\_Repos\NumberGen\NumberGenConsole\NumberGenConsole\obj\Debug\netcoreapp1.1\NumberGenConsole.AssemblyInfo.cs
+G:\_Repos\NumberGen\NumberGenConsole\NumberGenConsole\obj\Debug\netcoreapp1.1\NumberGenConsole.dll
+G:\_Repos\NumberGen\NumberGenConsole\NumberGenConsole\obj\Debug\netcoreapp1.1\NumberGenConsole.pdb
+G:\_Repos\NumberGen\csharp-solution\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.deps.json
+G:\_Repos\NumberGen\csharp-solution\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.runtimeconfig.json
+G:\_Repos\NumberGen\csharp-solution\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.runtimeconfig.dev.json
+G:\_Repos\NumberGen\csharp-solution\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.dll
+G:\_Repos\NumberGen\csharp-solution\NumberGenConsole\bin\Debug\netcoreapp1.1\NumberGenConsole.pdb
+G:\_Repos\NumberGen\csharp-solution\NumberGenConsole\obj\Debug\netcoreapp1.1\NumberGenConsole.AssemblyInfo.cs
+G:\_Repos\NumberGen\csharp-solution\NumberGenConsole\obj\Debug\netcoreapp1.1\NumberGenConsole.dll
+G:\_Repos\NumberGen\csharp-solution\NumberGenConsole\obj\Debug\netcoreapp1.1\NumberGenConsole.pdb
