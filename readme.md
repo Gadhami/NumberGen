@@ -32,7 +32,7 @@ This project is a console app written in C#
 
 *   `Method #2`
 
-    We initialize an int[] array and initialize it to have an ordered array, ie.
+    We declare an int[] array and initialize it so that we have an ordered array, ie.
 
         NbrList[0] = 1
         NbrList[1] = 2
